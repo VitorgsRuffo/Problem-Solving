@@ -1,8 +1,3 @@
-# URI_Problems
+# Problem Solving
 
-### This is a repository made to hold URI problems solutions.
-
-(e-mail: vitorruffo19cc@gmail.com)
-
-
-Name on URI website: Vitor Ruffo.
+This repository stores my solutions to problems found in sites like Codeforces, TopCoder, etc.
